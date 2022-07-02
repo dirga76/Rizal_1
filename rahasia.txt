@@ -1,2 +1,4 @@
-Nama
-Kelas
+Nama        : Rizal Abdul Latif
+Kelas       : A1
+Pesan       : diam
+Tugas       : Nambah deui
